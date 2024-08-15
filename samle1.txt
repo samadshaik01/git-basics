@@ -1,2 +1,2 @@
-line1
+line1 feature-1 change
 feature-1 change
